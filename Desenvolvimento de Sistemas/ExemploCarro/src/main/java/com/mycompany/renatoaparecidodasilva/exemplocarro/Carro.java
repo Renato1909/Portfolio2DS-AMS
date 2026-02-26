@@ -32,5 +32,13 @@ public class Carro {
     
     void mudarMarcha() {
     System.out.println("Marcha engatada");
+
+          void caracteristicas () {
+       System.out.println(cor);
+       System.out.println(modelo);
+       System.out.println(motor);
+   }
+}
     }
 }
+
