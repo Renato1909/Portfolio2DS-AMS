@@ -22,7 +22,7 @@ public class HipotenusaDS {
         
         int calculo = (base*base) + (altura*altura);
         
-        System.out.println ("")
+        JOptionPane.showMessageDialog(null, "O valor da hipotenusa é: " + hipotenusa);
     }
     }
 }
