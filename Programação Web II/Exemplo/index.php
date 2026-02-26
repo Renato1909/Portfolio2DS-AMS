@@ -15,17 +15,5 @@ echo "Durante as aulas";
 ?>
 
 </body>
-
-
-
-
-
-
 </head>
-
-
-
-
-
-
 </html>
