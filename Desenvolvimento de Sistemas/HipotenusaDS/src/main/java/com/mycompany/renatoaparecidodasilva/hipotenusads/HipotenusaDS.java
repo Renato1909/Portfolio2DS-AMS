@@ -20,7 +20,7 @@ public class HipotenusaDS {
         
         altura = Integer.parseInt(JOptionPane.showInputDialog("Digite a base do triângulo"));
         
-        int calculo = (base*base) + (altura*altura);
+        int hipotenusa = (base*base) + (altura*altura);
         
         JOptionPane.showMessageDialog(null, "O valor da hipotenusa é: " + hipotenusa);
     }
