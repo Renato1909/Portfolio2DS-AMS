@@ -1,3 +1,4 @@
+<html>
 <head>
     <title>PHP - Aula Exemplo do Uso de Variáveis</title>
 </head>
@@ -50,4 +51,5 @@ print "<P>";
 
 
 </body>
+
 </html>
