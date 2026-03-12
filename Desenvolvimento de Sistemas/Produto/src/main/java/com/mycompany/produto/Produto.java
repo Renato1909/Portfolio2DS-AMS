@@ -10,11 +10,11 @@ import javax.swing.JOptionPane;
  */
 public class Produto {
     
-    // Atributos [cite: 3]
+    // Atributos
     String nome;
     double preco;
 
-    // Método para calcular e mostrar o desconto [cite: 5, 6]
+    // Método para calcular e mostrar o desconto
     public void calcularDesconto() {
         double desconto = preco * 0.15; // 15% de desconto
         double precoFinal = preco - desconto;
