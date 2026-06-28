@@ -6,6 +6,3 @@ Atividade da matéria de Programação Web II (PW2), requerida pelo professor Ma
 
 
 
-https://github.com/user-attachments/assets/85443669-b659-4160-b9da-a430a85e270d
-
-
