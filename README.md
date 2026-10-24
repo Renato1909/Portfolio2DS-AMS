@@ -9,3 +9,4 @@ Atividades das matérias durante o 2° Ano do meu curso na ETEC Zona Leste, DS/A
 Alguns projetos acadêmicos que antes estavam em repositórios separados foram incorporados a este portfólio para centralizar as atividades do curso. Os demais trabalhos e materiais continuam organizados por disciplina.
 
 - [PHP-Exercicios](Programação%20Web%20II/PHP-Exercicios/) — exercícios de PHP, JavaScript e CSS.
+- [CRUD-Financeiro-PW2](Programação%20Web%20II/CRUD-Financeiro-PW2/) — sistema CRUD financeiro em PHP/PDO com MySQL.
