@@ -89,7 +89,7 @@ if (isset($_SESSION['logado']) && $_SESSION['logado'] === true) {
                     </form>
                     
                     <div class="mt-3 text-center">
-                        <small class="text-muted">Credenciais de demonstração:<br>Usuário: <strong>etec</strong> | Senha: <strong>etec2026</strong></small>
+                        <small class="text-muted">Credenciais configuradas no ambiente do servidor.</small>
                     </div>
                 </div>
             </div>
