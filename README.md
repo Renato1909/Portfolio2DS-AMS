@@ -12,3 +12,5 @@ Alguns projetos acadêmicos que antes estavam em repositórios separados foram i
 - [CRUD-Financeiro-PW2](Programação%20Web%20II/CRUD-Financeiro-PW2/) — sistema CRUD financeiro em PHP/PDO com MySQL.
 
 - [AppSQLite](Programação%20e%20Aplicativo%20Mobile%20I/AppSQLite/) — aplicativo Android em Kotlin com autenticação e persistência local usando SQLite.
+
+- [ETEC2-Site](Programação%20Web%20II/ETEC2-Site/) — site institucional acadêmico com HTML, CSS, JavaScript e PHP.
