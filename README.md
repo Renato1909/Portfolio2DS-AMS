@@ -7,3 +7,5 @@ Atividades das matérias durante o 2° Ano do meu curso na ETEC Zona Leste, DS/A
 - [DadosSalario](Programação%20Web%20II/DadosSalario/) — exercício de cálculo salarial em PHP, HTML e CSS.
 
 Alguns projetos acadêmicos que antes estavam em repositórios separados foram incorporados a este portfólio para centralizar as atividades do curso. Os demais trabalhos e materiais continuam organizados por disciplina.
+
+- [PHP-Exercicios](Programação%20Web%20II/PHP-Exercicios/) — exercícios de PHP, JavaScript e CSS.
