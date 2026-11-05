@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #b11116; /* Vermelho ETEC */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    background: #333;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.8rem;
+}
+
+.form-group { margin-bottom: 15px; }
+input, textarea { width: 100%; padding: 8px; margin-top: 5px; }
+button { background: #b11116; color: white; border: none; padding: 10px 20px; cursor: pointer; }
