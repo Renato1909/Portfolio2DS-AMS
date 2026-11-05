@@ -14,3 +14,9 @@ Alguns projetos acadêmicos que antes estavam em repositórios separados foram i
 - [AppSQLite](Programação%20e%20Aplicativo%20Mobile%20I/AppSQLite/) — aplicativo Android em Kotlin com autenticação e persistência local usando SQLite.
 
 - [ETEC2-Site](Programação%20Web%20II/ETEC2-Site/) — site institucional acadêmico com HTML, CSS, JavaScript e PHP.
+
+## Licença
+
+O código que escrevi neste repositório está sob a licença MIT (ver `LICENSE`).
+
+A licença não cobre o material de terceiros que acompanha os trabalhos: PDFs de aulas e tutoriais, fichas da ETEC e diagramas com outra origem. Se reutilizares este repositório, remove ou substitui esse material.
